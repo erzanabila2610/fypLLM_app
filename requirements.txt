@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 torch
-re
-transformers 
-sentence_transformers
-sklearn.metrics.pairwise
+transformers
+sentence-transformers
+scikit-learn
